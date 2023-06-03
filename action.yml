@@ -1,4 +1,4 @@
-name: "Wait for secrets"
+name: "NxL Wait for secrets"
 description: "Publish from GitHub Actions using multi-factor authentication"
 inputs:
   secrets:
